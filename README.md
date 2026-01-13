@@ -4,8 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=Shivpoojan833&label=Visitors&color=blue&style=flat" />
 </div>
 <div align="center">
-  <img src="assets/Banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer Banner" />
 </div>
+
 
 <!--
 **Shivpoojan833/Shivpoojan833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
