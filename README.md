@@ -39,7 +39,12 @@
 <a href="https://shivpoojan833.github.io/html-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=google-chrome" />
 </a>
-
+<a href="https://codeforces.com/profile/sniperarmy" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=flat&logo=codeforces" />
+</a>
+<a href="https://www.codechef.com/users/rorke141" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=flat&logo=codechef" />
+</a>
 </div>
 
 ---
