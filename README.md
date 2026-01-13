@@ -3,6 +3,9 @@
   <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=Shivpoojan833&label=Visitors&color=blue&style=flat" />
 </div>
+<div align="center">
+  <img src="assets/7-Computer-Programmer-Skills-You-Need-to-Succeed.webp" alt="Banner" />
+</div>
 
 <!--
 **Shivpoojan833/Shivpoojan833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
