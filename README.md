@@ -9,17 +9,22 @@
   <p>Core Java • DSA • Problem Solving</p>
   <img src="https://komarev.com/ghpvc/?username=Shivpoojan833&label=Visitors&color=blue&style=flat" />
 </div>
+---
+
+## Connect with Me
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/shivpoojan-tiwari-3030ba379" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/Shivpoojan833" target="_blank">
+  <a href="https://github.com/Shivpoojan833">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
   </a>
-  <a href="mailto:mvmoraishivpujan12b@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
 </div>
+
 ---
 
 ## Tech Stack
