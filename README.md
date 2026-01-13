@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Shivpoojan833&label=Visitors&color=blue&style=flat" />
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/shivpoojan-tiwari-3030ba379" target="_blank">
+  <a href="https://www.linkedin.com/in/shivpoojan-tiwari-3030ba379" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://github.com/Shivpoojan833" target="_blank">
