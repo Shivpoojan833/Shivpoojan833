@@ -30,7 +30,7 @@
 ## CODING PLATFORMS
 
 <div align="center">
-  <a href="https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/Shivpoojan/">
+  <a href="https://leetcode.com/u/Shivpoojan/">
   <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=flat&logo=leetcode" />
 </a>
 <a href="https://www.hackerrank.com/profile/mvmoraishivpuja1">
