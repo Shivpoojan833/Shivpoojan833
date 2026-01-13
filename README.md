@@ -1,4 +1,4 @@
-## Hi there 👋
+## HELLO CODERS,
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=Shivpoojan833&label=Visitors&color=blue&style=flat" />
@@ -11,7 +11,7 @@
 </div>
 
 
-## Connect with Me
+## CONNECT WITH ME
 
 <div align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
@@ -27,7 +27,24 @@
 
 ---
 
-## Tech Stack
+## CODING PLATFORMS
+
+<div align="center">
+  <a href="https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/Shivpoojan/">
+  <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=flat&logo=leetcode" />
+</a>
+<a href="https://www.hackerrank.com/profile/mvmoraishivpuja1">
+  <img src="https://img.shields.io/badge/HackerRank-Coding-green?style=flat&logo=hackerrank" />
+</a>
+<a href="https://YOUR_WEBSITE_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=google-chrome" />
+</a>
+
+</div>
+
+---
+
+## TECH STACK
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
