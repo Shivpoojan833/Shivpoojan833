@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Shivpoojan833&label=Visitors&color=blue&style=flat" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer Banner" />
+ <img src="https://user-images.githubusercontent.com/74038190/212749443-9b1c8f0a-9f4a-4c2a-bbde-b2c6b6f9c9f5.png" alt="Tech Banner" />
   <h2>Java Developer | Projects & Practice</h2>
   <p>Core Java • DSA • Problem Solving</p>
   <img src="https://komarev.com/ghpvc/?username=Shivpoojan833&label=Visitors&color=blue&style=flat" />
