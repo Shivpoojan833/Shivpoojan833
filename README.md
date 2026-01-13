@@ -1,8 +1,9 @@
 ## Hi there 👋
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Shivpoojan833/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=Shivpoojan833&label=Visitors&color=blue&style=flat" />
 </div>
+
 <!--
 **Shivpoojan833/Shivpoojan833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
