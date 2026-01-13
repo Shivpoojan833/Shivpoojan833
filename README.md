@@ -16,7 +16,7 @@
   <a href="https://github.com/Shivpoojan833" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mvmoraishivpujan12b@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
 </div>
