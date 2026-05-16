@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer Banner" />
-  <h2>Java Developer | Projects & Practice</h2>
+  <h2>Competitive Programmer & Tech Enthusiast | Projects & Practice</h2>
   <p>Core Java • DSA • Problem Solving</p>
 </div>
 
